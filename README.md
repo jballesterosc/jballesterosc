@@ -20,7 +20,7 @@ I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about
 
 ### How to reach me
 | 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 
-|---|---|---|---|
+|---|---|---|
 
 
 <!--
