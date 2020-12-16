@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about open source, data and python development.
+I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about open source, data and python.
 
 ### What projects I am currently working on?
 
