@@ -11,15 +11,15 @@ I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about
 
 | Repository | Description |
 |:---------------------------------------------------------|:---------------------------------------------------------------------------|
+| 📊 [DataCol](https://github.com/jballesterosc/datacol) | Data Visualization blog based on [fastpages](https://github.com/fastai/fastpages) about relevant issues of Colima's, México context from a data-driven analysis. |
 | 🚌🚶‍♀️[mobility-covid19](https://github.com/jballesterosc/mobility-covid19) | Data Visualization template for Google's Community Mobility Reports data by country and region on Python. |
 | 📈 [covid19-mx-viz](https://github.com/jballesterosc/covid19-mx-viz) | Data visualization infographic template for Mexico's COVID-19 official data by state on Python. |
-| 📊 [DataCol](https://github.com/jballesterosc/datacol) | Plots of COVID-19 data on Colima's, México context. |
 | 📊 [fb-political-ads](https://github.com/jballesterosc/fb-political-ads) | Data Visualization of Facebook's Ad Library from México's Data. |
 
 
 
 ### How to reach me
-| 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 👤 [Resume](https://www.notion.so/Hi-there-2ae5ee178d354e80ad7809d1682bb7fe)
+| 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 
 |---|---|---|---|
 
 
