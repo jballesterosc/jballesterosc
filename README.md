@@ -11,7 +11,7 @@ I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about
 
 | Repository | Description |
 |:---------------------------------------------------------|:---------------------------------------------------------------------------|
-| 📊 [DataCol](https://github.com/jballesterosc/datacol) | Data Visualization blog based on [fastpages](https://github.com/fastai/fastpages) about relevant issues of Colima's, México context from data-driven analysis. |
+| 📊 [datacol](https://github.com/jballesterosc/datacol) | Data Visualization blog based on [fastpages](https://github.com/fastai/fastpages) about relevant issues of Colima's, México context from data-driven analysis. |
 | 🚌🚶‍♀️[mobility-covid19](https://github.com/jballesterosc/mobility-covid19) | Data Visualization template for Google's Community Mobility Reports data by country and region on Python. |
 | 📈 [covid19-mx-viz](https://github.com/jballesterosc/covid19-mx-viz) | Data visualization infographic template for Mexico's COVID-19 official data by state on Python. |
 | 📊 [fb-political-ads](https://github.com/jballesterosc/fb-political-ads) | Data Visualization of Facebook's Ad Library from México's Data. |
