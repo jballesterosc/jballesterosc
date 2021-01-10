@@ -22,7 +22,7 @@ I'm Jay Ballesteros, originally from Colima, México, somehow enthusiastic about
 | 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 
 |---|---|---|
 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jbakkesteris)]
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jbakkesterosc)]
 
 
 <!--
