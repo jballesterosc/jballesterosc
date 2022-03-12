@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Jay Ballesteros, originally from Colima, México. Currently living in Mexico City.
 
@@ -8,7 +8,7 @@ I'm Jay Ballesteros, originally from Colima, México. Currently living in Mexico
 - Web3 and DeFi
 - Public policy
 
-### What projects I am currently working on?
+## What projects I am currently working on?
 
 - Founder of [DataCol](https://datacol.com.mx), an open data repository and data visualization blog on relevant public issues of the state of Colima, México.
 - Public Policy Analyst at [Fundación IDEA](https://fundacionidea.org.mx/), specialized in security, justice and methodology design. 
@@ -17,7 +17,7 @@ I'm Jay Ballesteros, originally from Colima, México. Currently living in Mexico
 | Check my resume [here](https://github.com/jballesterosc/resume_jballesteros/blob/main/_ENG/220209/JBallesteros_ENG.pdf) |
 |---|
 
-### My repositories
+## My repositories
 
 | Repository | Description |
 |:---------------------------------------------------------|:---------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ I'm Jay Ballesteros, originally from Colima, México. Currently living in Mexico
 | 📊 [fb-political-ads](https://github.com/jballesterosc/fb-political-ads) | Data Visualization template of Facebook's Ad Library from México's Data. |
 
 
-### How to reach me
+## How to reach me
 | 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 
 |---|---|---|
 
