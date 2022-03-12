@@ -1,12 +1,6 @@
 # Hi there 👋
 
-I'm Jay Ballesteros, originally from Colima, México. Currently living in Mexico City.
-
-## Interests
-- Open source
-- Data analysis
-- Web3 and DeFi
-- Public policy
+  I'm Jay Ballesteros, originally from Colima, Mexico and currently living in Mexico City. I'm actively looking to collaborate on open source projects focused on data analysis; DeFi and tech-based public policy solutions. 
 
 ## What projects I am currently working on?
 
