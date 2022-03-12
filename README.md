@@ -8,8 +8,8 @@
 - Public Policy Analyst at [Fundación IDEA](https://fundacionidea.org.mx/), specialized in security, justice and methodology design. 
 
 ### Want to know more about my background? 
-| Check my resume [here](https://github.com/jballesterosc/resume_jballesteros/blob/main/_ENG/220209/JBallesteros_ENG.pdf) |
-|---|
+Check my resume [here](https://github.com/jballesterosc/resume_jballesteros/blob/main/_ENG/220209/JBallesteros_ENG.pdf)
+
 
 ## My repositories
 
@@ -22,7 +22,7 @@
 
 
 ## How to reach me
-| 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 
+| 🐦 [@jballesterosc_](https://twitter.com/jballesterosc_) | 📧 [jballesterosc@pm.me](mailto:jballesterosc@pm.me) | 🌐 [jballesterosc.github.io](https://jballesterosc.github.io) |
 |---|---|---|
 
 
